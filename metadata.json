@@ -1,0 +1,10 @@
+{
+    "uuid": "UltraShade@mrkrook2012",
+    "name": "UltraShade",
+    "description": "Adds a brightness slider to dim the screen beyond the default limits.",
+    "version": 1,
+    "shell-version": ["45", "44", "43", "42"],
+    "url": "https://github.com/mrkrook2012/UltraShade",
+    "settings-schema": "org.gnome.shell.extensions.ultrashade",
+    "gettext-domain": "ultrashade"
+}
